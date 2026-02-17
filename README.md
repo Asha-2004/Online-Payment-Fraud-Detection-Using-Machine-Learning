@@ -20,8 +20,9 @@ HTML
 Model Accuracy: ~99%
 
 🖥️ Application Screenshots
-![Model Output]("C:\Users\lenovo\Pictures\Screenshots\Screenshot 2026-02-17 172945.png")
-![Model Output]("C:\Users\lenovo\Pictures\Screenshots\Screenshot 2026-02-17 181914.png")
+![Output]("C:\Users\lenovo\Pictures\Screenshots\Screenshot 2026-02-17 172945.png")
+![Output](""C:\Users\lenovo\Pictures\Screenshots\Screenshot 2026-02-17 181914.png")
+
 ▶️ How to Run
 python app.py
 
